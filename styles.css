@@ -34,9 +34,14 @@ h1 {
 	color: #bcc2ac;
 	font-family: "Elsie", cursive;
 	text-align: center;
+	font-size: 2.6rem;
+	padding: 15px 0;
 }
 
 /* MAIN */
+.my-main {
+	padding: 0 20px;
+}
 hr {
 	margin: 40px auto;
 	border: 1px solid rgba(47, 47, 47, 0.438);
