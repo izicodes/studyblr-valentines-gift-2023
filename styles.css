@@ -18,7 +18,8 @@ a {
 	color: #2a4522;
 	transition: 400ms;
 }
-a:hover {
+a:hover,
+footer > a:hover {
 	color: #eef2e4;
 }
 h1,
@@ -102,4 +103,23 @@ ul {
 	color: #bcc2ac;
 	padding: 5px 10px;
 	border-radius: 3px;
+}
+
+/* FOOTER */
+footer {
+	width: 100%;
+	margin-top: 60px;
+	text-align: center;
+	padding: 5px 0;
+	background-color: #485c42;
+	color: #b1b7b0;
+}
+footer > a {
+	color: #bcc2ac;
+	transition: 400ms;
+}
+
+.fa-code {
+	color: #103305;
+	padding-right: 5px;
 }
