@@ -22,7 +22,8 @@ a:hover {
 	color: #eef2e4;
 }
 h1,
-h2 {
+h2,
+.poet {
 	font-family: "Elsie", cursive;
 	font-weight: normal;
 }
@@ -96,5 +97,9 @@ ul {
 }
 .poet {
 	text-align: center;
-	font-style: italic;
+	margin: 5px 0;
+	background-color: #485c42;
+	color: #bcc2ac;
+	padding: 5px 10px;
+	border-radius: 3px;
 }
