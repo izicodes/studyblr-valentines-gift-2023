@@ -60,4 +60,35 @@ hr {
 	font-size: 1.1rem;
 }
 
+/* TABLE OF CONTENTS */
+li {
+	list-style: none;
+	padding-bottom: 10px;
+}
+li:not(:first-child) {
+	padding-top: 10px;
+}
+ul {
+	padding: 0;
+}
+
 /* THE POEMS */
+.description {
+	text-align: justify;
+}
+.source-link {
+	display: flex;
+	justify-content: center;
+	text-decoration: none;
+}
+.poem {
+	display: flex;
+	place-items: center;
+	text-align: center;
+	flex-direction: column;
+	font-size: 1.2rem;
+}
+.poet {
+	text-align: center;
+	font-style: italic;
+}
