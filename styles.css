@@ -6,11 +6,10 @@
 }
 
 body {
-	margin: 0;
 	padding: 0;
 	background-color: #bcc2ac;
 	margin: 0 auto;
-	width: 700px;
+	width: 40%;
 	font-family: "EB Garamond", serif;
 	font-size: 15px;
 }
@@ -122,4 +121,20 @@ footer > a {
 .fa-code {
 	color: #103305;
 	padding-right: 5px;
+}
+
+/* MEDIA QUERIES */
+@media only screen and (max-width: 500px) {
+	body {
+		width: 100%;
+	}
+
+	/* HEADER */
+	h1 {
+		font-size: 1.5rem;
+	}
+
+	.poet {
+		font-size: 1.2rem;
+	}
 }
