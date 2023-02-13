@@ -80,6 +80,7 @@ ul {
 /* THE POEMS */
 .description {
 	text-align: justify;
+	line-height: 25px;
 }
 .source-link {
 	display: flex;
