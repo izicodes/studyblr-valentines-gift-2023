@@ -14,7 +14,7 @@
 - The webpage *should* be responisve
 
 ## 💌 Link
-You too can view the webpage! Click here: [LINK](https://xiacodes.github.io/studyblr-valentines-gift-2023/)
+You too can view the webpage! Click here: [LINK](https://izicodes.github.io/studyblr-valentines-gift-2023/)
 
 ## 💌 Issues?
-If you encouter some issues with viewing the webpage or some elements are out of pleace, do contact me here: [LINK](https://xiacodes.tumblr.com/ask)
+If you encouter some issues with viewing the webpage or some elements are out of pleace, do contact me here: [LINK](https://izicodes.tumblr.com/ask)
